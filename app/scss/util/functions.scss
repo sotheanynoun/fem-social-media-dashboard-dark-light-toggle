@@ -1,0 +1,4 @@
+@function rem($pixels, $context: 16) {
+  @return ($pixels / $context) * 1rem;
+}
+// is function that convert pixel to rem :: 16 pixels = 1rem
