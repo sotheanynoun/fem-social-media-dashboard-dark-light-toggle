@@ -28,3 +28,8 @@
     - **npm install --global gulp-cli**
     - ** npm install @babel/core @babel/preset-env postcss autoprefixer browser-sync cssnano dart-sass gulp gulp-babel gulp-postcss gulp-sass gulp-terser**
     - **npm audit** :: to search vulnerabilities
+
+# What is BEM?
+
+    - **BEM** stands for **block element modifier** : planning out the class names
+    - Example: +block = card,+ element = everything in card(platform, count, change) + modifier = something that can change
